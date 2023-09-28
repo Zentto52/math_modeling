@@ -1,0 +1,1 @@
+print('Hello mir manera krytit mir')
